@@ -1,10 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-
-<div id="header" align="center">
-
-# Hey there, Thushan this side! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="GIF">
-
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=99&color=gradient&text=Hey%20there,%20I%20am%20M.T.Miuranga&textBg=ture&fontSize=20&section=header&reversal=false&animation=twinkling&stroke=1"/>
 
 <br>
 
@@ -22,32 +16,26 @@
 
 <br>
 
-## 🌐 Socials:
+### LinkedIn:
 
-<div align="center">
-
-<a href="https://instagram.com/thushan99" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/thushan99" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/thushan99" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
-</div>
+<a href="https://www.linkedin.com/in/mtmiuranga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br>
 
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,typescript,java,spring,python,kubernetes,docker,aws,gcp,azure,mongodb,postgresql,mysql,redis,git,github&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,spring,kubernetes,docker,aws,azure,mongodb,postgresql,mysql,redis,git,github&perline=8" />
 </a>
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 <div align="center">
 
@@ -68,18 +56,6 @@
 </div>
 
 <hr>
-
-<p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/thushan99" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
-</p>
-
-<hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thushan99&color=red" alt="Total Github views" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thanks%20for%20your%20visit%20to%20my%20profile!%20😊&textBg=false&fontSize=10&section=footer&reversal=false&animation=twinkling&stroke=1"/>
