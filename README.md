@@ -6,13 +6,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
 </div>
 
-### 💫 About Me
+### About Me
 
-- 🎓 I'm a Student and Software Developer
-- 🔭 I'm currently working on Full Stack Development
-- 🌱 I'm currently learning Cloud Technologies
-- 👯 I'm looking to collaborate with open source enthusiasts
-- 🥅 2025 Goals: Master Cloud Architecture, React, and enhance System Design skills
+- I'm a Student and Software Developer
+- I'm currently working on Full Stack Development
+- I'm currently learning Cloud Technologies
+- I'm looking to collaborate with open-source enthusiasts
+- 2025 Goals: Master Cloud Architecture, React, and enhance System Design skills
 
 <br>
 
@@ -23,7 +23,7 @@
 <br>
 
 
-### 💻 Tech Stack:
+### Tech Stack:
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 <br>
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 </div><br>
 
-# 🏆 Trophies
+# Trophies
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=thushan99&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
@@ -58,4 +58,4 @@
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thushan99&color=red" alt="Total Github views" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thanks%20for%20your%20visit%20to%20my%20profile!%20😊&textBg=false&fontSize=10&section=footer&reversal=false&animation=twinkling&stroke=1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thanks%20for%20your%20visit%20to%20my%20profile!%20&textBg=false&fontSize=10&section=footer&reversal=false&animation=twinkling&stroke=1"/>
